@@ -1,4 +1,4 @@
-# test de conditions
+#Conditions sur les nombres pairs et impairs
 
 a = int(input("saisir nombre : "))
 
